@@ -1,0 +1,73 @@
+.background-color{
+    background-color: #feeae9;
+}
+
+
+.container1{
+
+
+    margin-top: 50px;
+}
+.carousel-item {
+
+   padding: 20px 40px;
+}
+.price{
+    color: #FF1493;
+}
+
+.bye-naw-button{
+
+    background-color: #FF1493;
+    border-radius: 5px;
+    padding: 7px 15px;
+    color: white;
+
+}
+
+.cat1{
+
+    background-color: rgb(141, 141, 8);
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.cat2{
+    background-color: rgb(197, 66, 66);
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.cat3{
+
+    background-color: cornflowerblue;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.cetagories h1{
+    color: white;
+}
+
+.cetagories img{
+
+    width: 80px;
+}
+
+
+.card{
+
+    border: none;
+    box-shadow: 10px 13px 11px -6px rgba(163,161,163,1);
+}
+#subcribe{
+
+    height: 300px;
+    border-radius: 8px;
+
+    
+}
+
+.bye-naw-button-margin{
+    margin-top: 4px;
+}
+footer{
+    text-align: center;
+}
